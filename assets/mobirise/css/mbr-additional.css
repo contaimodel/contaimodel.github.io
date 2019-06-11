@@ -1373,9 +1373,7 @@ body {
   display: none;
 }
 .cid-rt4ATkXNrJ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/blue-1920x1080.jpg");
 }
 @media (min-width: 992px) {
   .cid-rt4ATkXNrJ .mbr-figure {
@@ -1899,7 +1897,7 @@ body {
 .cid-rt56kfRtVf {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/blue-1920x1080.jpg");
 }
 .cid-rt56kfRtVf .media-container-column {
   align-items: center;
